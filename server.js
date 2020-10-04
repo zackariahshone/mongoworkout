@@ -9,7 +9,8 @@ const routes = require("./routes/routeController.js");
 
 // const db = require("./models");
 app.use(logger('dev'));
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/userdb', {
+
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Workouts', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
