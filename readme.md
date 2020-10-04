@@ -5,3 +5,8 @@ First intro to mongo db this aplication leverages mongoose to store new workouts
 It will display the last workout, create work outs and edit workouts as well as displaying the last ten workouts to display on the graph to track progresions as you go. 
 
 enigmatic-meadow-94155
+
+Heroku Deployed: 
+
+https://mongodojo.herokuapp.com/?id=5f79111128872e0017b8c525
+
